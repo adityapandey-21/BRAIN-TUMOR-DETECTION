@@ -15,4 +15,4 @@ This project applies a Convolutional Neural Network (CNN) to classify MRI brain 
 
 - Dataset: **Brain MRI Images for Brain Tumor Detection**
 - Source: [Kaggle Dataset Link](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
-- Structure:
+
